@@ -45,7 +45,21 @@
 ## GitHub Stats:
 ![zineb-hub's GitHub stats](https://github-readme-stats.vercel.app/api?username=zineb-hub&show_icons=true&theme=radical)
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=zineb-hub&theme=radical)](https://git.io/streak-stats)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=zineb-hub&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Buy Me A Coffee](https://img.shields.io/badge/-Buy%20Me%20A%20Coffee-ff813f?logo=buy-me-a-coffee&logoColor=white&style=flat)](https://www.buymeacoffee.com/YourUsername)
+
+## 📝 Latest Blog Posts
+- [Title of Post](https://bloglink.com/first-post)
+- [Another Post](https://bloglink.com/another-post)
+- [One More Post](https://bloglink.com/one-more-post)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zineb-hub&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
  ## ✍️ Random Dev Quote
 ![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=dev)
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=zineb-hub.zineb-hub)
+
