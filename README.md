@@ -45,8 +45,6 @@
 ## GitHub Stats:
 ![zineb-hub's GitHub stats](https://github-readme-stats.vercel.app/api?username=zineb-hub&show_icons=true&theme=radical)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=zineb-hub&theme=radical)](https://git.io/streak-stats)
-
 ## 📝 Latest Blog Posts
 - [Tags generation dataset 🧠](https://huggingface.co/blog/zino36/tags-generation-dataset-article#tags-generation-dataset-🧠)
 
