@@ -48,7 +48,7 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=zineb-hub&theme=radical)](https://git.io/streak-stats)
 
 ## 📝 Latest Blog Posts
-- [Tags generation dataset 🧠]([https://bloglink.com/first-post](https://huggingface.co/blog/zino36/tags-generation-dataset-article#tags-generation-dataset-🧠))
+- [Tags generation dataset 🧠](https://huggingface.co/blog/zino36/tags-generation-dataset-article#tags-generation-dataset-🧠)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zineb-hub&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
