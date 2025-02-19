@@ -3,11 +3,11 @@
 
 <!-- About Me -->
 ## About Me:
-- Student at the National School of Artificial Intelligence
-- Student at The Center for Teaching and Research in Computer Science (CERI)
-- Backend Developer  
-- Junior Data Scientist  
-- Junior Software Developer  
+- 🤖 **Student at the National School of Artificial Intelligence**
+- 🏫 **Student at The Center for Teaching and Research in Computer Science (CERI)**
+- 🛠 **Backend Developer**
+- 📊 **Junior Data Scientist**
+- 💻 **Junior Software Developer**
 
 <!-- Socials -->
 ## Socials:
