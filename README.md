@@ -14,8 +14,8 @@
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000?logo=vercel&logoColor=white)](https://votreportfolio.com)
 [![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-FFD35F?logo=huggingface&logoColor=white)](https://huggingface.co/zino36)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/meftah-zineb-5768ba25b)
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/)
-[![Kaggle](https://img.shields.io/badge/-Kaggle-20beff?logo=kaggle&logoColor=white)](https://kaggle.com/)
+[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/29733971/meftah-zineb)
+[![Kaggle](https://img.shields.io/badge/-Kaggle-20beff?logo=kaggle&logoColor=white)](https://www.kaggle.com/meftahzineb)
 
 <!-- Tech Stack -->
 ## Tech Stack:
